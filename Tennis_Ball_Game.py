@@ -1,4 +1,3 @@
-#This is the last updated Term Project
 
 #Laura Ochsner
 #Spring 2017
